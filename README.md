@@ -58,3 +58,4 @@ Most of the tools will be run on Docker.
 All of materials in this repo from **DataExpert.io** links (I am not the owner)
 - https://bootcamp.techcreator.io/
 - https://github.com/dataexpert-io/data-engineer-handbook
+- https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering
